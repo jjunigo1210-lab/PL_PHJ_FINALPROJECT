@@ -83,7 +83,9 @@ project-folder
 
 프로그램 실행 후 단어 추가, 퀴즈 진행, 통계 확인이 가능하다.  
 실제 실행 화면은 캡처 이미지 형태로 밑에 첨부하였다.
-<img width="285" height="458" alt="image" src="https://github.com/user-attachments/assets/c177ee46-2378-49e7-a749-d4f4bade8f7c" />
+
+<img width="570" height="917" alt="실행결과1" src="https://github.com/user-attachments/assets/144703bf-01ab-46c6-ad86-43eb7ea76b59" />
+
 <img width="750" height="1174" alt="실행결과2" src="https://github.com/user-attachments/assets/21b8179a-5eec-44a6-a9ba-b9fa7b09ee36" />
 
 +혹시라도 이미지가 보이지 않는다면 상단의 실행결과1,2이미지로 봐주시면 감사하겠습니다....!!
