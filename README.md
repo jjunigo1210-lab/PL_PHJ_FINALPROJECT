@@ -83,8 +83,10 @@ project-folder
 
 프로그램 실행 후 단어 추가, 퀴즈 진행, 통계 확인이 가능하다.  
 실제 실행 화면은 캡처 이미지 형태로 밑에 첨부하였다.
-<img width="977" height="1269" alt="image" src="https://github.com/user-attachments/assets/be97e064-72cb-40d9-9cd7-53e27949da1c" />
-<img width="1003" height="933" alt="image" src="https://github.com/user-attachments/assets/2bf190f5-62f8-4a5a-a580-494e4a92254b" /> 
+<img width="285" height="458" alt="image" src="https://github.com/user-attachments/assets/c177ee46-2378-49e7-a749-d4f4bade8f7c" />
+<img width="750" height="1174" alt="실행결과2" src="https://github.com/user-attachments/assets/21b8179a-5eec-44a6-a9ba-b9fa7b09ee36" />
+
++혹시라도 이미지가 보이지 않는다면 상단의 실행결과1,2이미지로 봐주시면 감사하겠습니다....!!
 
 우선, add 명령어를 이용하여 영어 단어를 입력 후, 뜻을 입력하여 단어장에 저장할 수 있다.
 입력된 단어는 words. csv 파일에 저장되고 프로그램을 종료해도 단어장이 유지되도록 하였다.
